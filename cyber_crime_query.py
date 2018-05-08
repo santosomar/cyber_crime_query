@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/python
 
 from cybercrimetracker.cybercrimeTrackerAPI import cybercrimeTrackerAPI
 import sys
